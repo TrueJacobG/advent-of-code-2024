@@ -6,7 +6,7 @@ export interface LeftRight {
 }
 
 export const day1 = () => {
-  //   part1();
+  part1();
   part2();
 };
 
