@@ -1,5 +1,6 @@
-import { example } from "./utils/main.ts";
+import { day1 } from "./day1/main.ts";
 
 if (import.meta.main) {
-  example();
+  // example();
+  day1();
 }
