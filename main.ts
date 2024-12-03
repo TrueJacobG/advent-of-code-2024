@@ -1,7 +1,8 @@
-import { day2 } from "./day2/main.ts";
+import { day3 } from "./day3/main.ts";
 
 if (import.meta.main) {
   // example();
   // day1();
-  day2();
+  // day2();
+  day3();
 }
