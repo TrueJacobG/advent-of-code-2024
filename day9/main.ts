@@ -40,7 +40,7 @@ const part1 = () => {
 };
 
 const createStringWithEmptySpaces = (data: string[]): string[] => {
-  let result: string[] = [];
+  const result: string[] = [];
 
   let isEmpty = false;
   let index = 0;
